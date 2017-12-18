@@ -501,7 +501,7 @@ footer > .wrapper > div.footer-social > ul > li {
       transition: 300ms all ease;
     }
 
-    a.learn-more {
+    footer > .wrapper > .footer-social > ul > li > a  {
       color: inherit;
     }
 
