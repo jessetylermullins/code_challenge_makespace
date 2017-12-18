@@ -501,6 +501,10 @@ footer > .wrapper > div.footer-social > ul > li {
       transition: 300ms all ease;
     }
 
+    a.learn-more {
+      color: inherit;
+    }
+
     button.slick-arrow {
       color: rgba(91,188,117,1);
       background-color: rgba(0,0,0,0);
