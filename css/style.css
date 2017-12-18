@@ -916,7 +916,7 @@ footer > .wrapper > div.footer-social > ul > li {
 
     .two-up {
       display: flex;
-      flex-direction: column;
+      flex-direction: column !important;
     }
 
     .two-up > .container:first-child {
