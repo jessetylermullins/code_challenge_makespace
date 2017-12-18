@@ -12,7 +12,8 @@ There are no prerequisites for this project.
 
 ### Installing
 
-Download the repo and run `index.html`.
+* Download the repo and run `index.html`.
+* View "Concord_Index_ms_v1.6 (1).jpg" to reference the provided mockup.
 
 ## Built With
 
