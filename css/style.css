@@ -914,6 +914,23 @@ footer > .wrapper > div.footer-social > ul > li {
       line-height: 1.25em;
     }
 
+    .two-up {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .two-up > .container:first-child {
+    margin: 16px auto 16px auto;
+    }
+
+    .two-up > .container:last-child {
+    margin: 16px auto 5% auto;
+    }
+
+    .two-up > .container > .overlay {
+      height: 465px;
+    }
+
     .slider {
       padding-right: 0px;
       max-width: 240px;
@@ -1014,22 +1031,6 @@ footer > .wrapper > div.footer-social > ul > li {
       padding: 0;
       height: 14px;
       width: 14px;
-    }
-
-    .two-up {
-      flex-direction: column;
-    }
-
-    .two-up > .container:first-child {
-    margin: 16px auto 16px auto;
-    }
-
-    .two-up > .container:last-child {
-    margin: 16px auto 5% auto;
-    }
-
-    .two-up > .container > .overlay {
-      height: 465px;
     }
 
     .fa-3x {
